@@ -41,7 +41,7 @@ public class Controller {
 
         while (!"exit".equals(input)){
             
-            System.out.println("Enter 'exit' to stop program OR Enter message 'Get Iniatialisation data' from the Rover::");
+            System.out.println("Enter 'exit' to stop program OR Enter message 'Get Iniatialisation data' from the Rover:");
             System.out.println();
             input = ioReader.readLine();
 
