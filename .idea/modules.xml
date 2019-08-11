@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Controller/Controller.iml" filepath="$PROJECT_DIR$/Controller/Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mars-rover-controller.iml" filepath="$PROJECT_DIR$/mars-rover-controller.iml" />
     </modules>
   </component>
 </project>
